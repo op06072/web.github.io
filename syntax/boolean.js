@@ -1,0 +1,10 @@
+console.log('boolean');
+console.log(true);
+console.log(false);
+console.log('\ncompatison');
+console.log(1==1);
+console.log(1==2);
+console.log(1>2);
+console.log(1<2);
+console.log(1===1);
+console.log(1===2);
